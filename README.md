@@ -1,1 +1,1 @@
-# DIGI-DIARY-2
+# PRO-C118-Student-Boilerplate-Code
